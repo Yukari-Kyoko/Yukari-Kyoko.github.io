@@ -1,0 +1,146 @@
+h1 {
+    text-align: center; 
+    text-shadow: 2px 2px #000000; 
+    color: cyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.main{
+    width: 100%;
+    background: url(YOSIR.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: static;
+    font-family: sans-serif;
+}
+
+.info{
+    margin-left: 7%;
+    margin-top: 5%;
+}
+
+.info img{
+    float: right;
+    width: 350px;
+    height: 450px;
+    margin-right: 10%;
+    margin-top: 7%;
+}
+
+span.ernest{
+    color: rgb(12, 194, 249);
+    font-family: Arial;
+}
+
+.marginright{
+    margin-right: 5%;
+    text-align: right;
+}
+
+.marginleft{
+    margin-left: 5%;
+    text-align: left;
+}
+
+.quarter1 ul{
+    text-align: center;
+    list-style: circle;
+    font-family: sans-serif;
+}
+
+.quarter1{
+    width: 100%;
+    background: url(1ST\ QUARTER.png);
+    height: 300vh;
+    background-size: cover;
+    position: static;
+    color: white;
+    font-family: sans-serif;
+}
+
+.quarter1 h1{
+    text-align: center; 
+    text-shadow: 2px 2px #000000; 
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 3%;
+}
+
+.borderwhite{
+    border-color: white;
+}
+
+.floatL{
+    float: left;
+    margin-left: 5%;
+}
+
+.floatR{
+    float: right;
+    margin-right: 5%;
+}
+
+p.rightomg{
+    margin-right: 15%;
+    text-align: center;
+}
+
+.quarter2{
+    width: 100%;
+    background: url(2nd\ quarter.jpeg);
+    height: 530vh;
+    background-size: cover;
+    position: static;
+    color: white;
+    font-family: 'Times New Roman';
+    text-shadow: 2px 2px #000000; 
+}
+
+.quarter2 h1{
+    text-align: center; 
+    text-shadow:2px 2px #000000; 
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 3%;
+}
+
+.quarter3{
+    width: 100%;
+    background: url(quarter3.jpg);
+    height: 250vh;
+    background-size: cover;
+    position: static;
+    color: white;
+    font-family: Courier;
+    font-weight: bold;
+    text-shadow: 2px 2px #000000; 
+}
+
+.quarter3 h1{
+    text-align: center; 
+    text-shadow:2px 2px #000000; 
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 3%;
+}
+
+.quarter4{
+    width: 100%;
+    background: url(quarter4.jpg);
+    height: 530vh;
+    background-size: cover;
+    position: absolute;
+    color: white;
+    font-family: Verdana;
+    font-weight: bold;
+    text-shadow: 2px 2px #000000; 
+}
+
+.quarter4 h1{
+    text-align: center; 
+    text-shadow:2px 2px #000000; 
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 3%;
+}
