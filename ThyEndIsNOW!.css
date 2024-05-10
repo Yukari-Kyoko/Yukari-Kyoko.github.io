@@ -1,0 +1,141 @@
+.h3 {
+    text-align: center; 
+    text-shadow: 4px 4px rgb(0, 125, 255); 
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.INTROOOO{
+    width: 100%;
+    background: url(hi.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: static;
+	text-align: center;
+    font-family: sans-serif;
+}
+
+.ernes{
+    margin-left: 9%;
+    margin-top: 7%;
+}
+
+span.zar{
+    color: rgb(15, 195, 255);
+    font-family: 'Times New Roman';
+}
+
+.marginRight{
+    margin-right: 5%;
+    text-align: right;
+}
+
+.marginLeft{
+    margin-left: 5%;
+    text-align: left;
+}
+
+.floatLeft{
+    float: left;
+    margin-left: 5%;
+}
+
+.floatRight{
+    float: right;
+    margin-right: 5%;
+}
+
+p.right{
+    margin-right: 15%;
+    text-align: center;
+}
+
+.quarter1{
+    width: 100%;
+    background: url(limbo.jpg);
+    height: 200vh;
+    background-size: cover;
+    position: static;
+    color: white;
+    font-family: Verdana;
+	text-shadow: 2px 4px rgb(0,135, 255);
+}
+
+.quarter1 h1{
+    text-align: center; 
+    text-shadow: 2px 4px rgb(0, 0, 0); 
+    color: white;
+    font-family: Arial;
+    margin-top: 3%;
+}
+
+.quarter1 ul{
+	text-align: center;
+    list-style: circle;
+    font-family: Arial;
+	text-shadow: 2px 4px rgb(0,135, 255)
+}
+
+.quarter2{
+    width: 100%;
+    background: url(Tidal.jpg);
+    height: 350vh;
+    background-size: cover;
+    position: static;
+    color: white;
+    font-family: Verdana;
+    text-shadow: 2px 4px rgb(255, 135, 0); 
+}
+
+.quarter2 h1{
+    text-align: center; 
+    text-shadow:4px 2px #000000; 
+    color: white;
+    font-family: Arial;
+    margin-top: 3%;
+}
+
+.quarter3{
+    width: 100%;
+    background: url(Avernus.jpg);
+    height: 100vh;
+    background-size: cover;
+    position: static;
+    color: white;
+    font-family: Verdana;
+    font-weight: bold;
+    text-shadow: 2px 4px rgb(0,135, 255); 
+}
+
+.quarter3 h1{
+    text-align: center; 
+    text-shadow:4px 2px #000000; 
+    color: white;
+    font-family: Arial;
+    margin-top: 3%;
+}
+
+.quarter4{
+    width: 100%;
+    background: url(Acu.jpg);
+    height: 100vh;
+    background-size: cover;
+    position: static;
+    color: white;
+    font-family: Verdana;
+    font-weight: bold;
+    text-shadow: 2px 4px #000000; 
+}
+
+.quarter4 h1{
+    text-align: center; 
+    text-shadow:4px 2px #000000; 
+    color: white;
+    font-family: Arial;
+    margin-top: 3%;
+}
+
+.outrobg {
+	background: url(outro.gif)
+}
